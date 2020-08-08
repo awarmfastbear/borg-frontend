@@ -1,0 +1,37 @@
+.App {
+
+height: 100%;
+width: 100%;
+padding-left: 10px;
+padding-top: 10px;
+
+}
+
+button, input[type=button], input[type=submit], input[type=reset] {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 12px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+ .submitButton
+{
+  width: 100px;
+  margin: 3px;
+}
+
+input.hostInput
+{
+  width: 200px;
+}
+
+.header {
+  display: flex;
+}
+
+.header div {
+  margin-right: 5%;
+}
